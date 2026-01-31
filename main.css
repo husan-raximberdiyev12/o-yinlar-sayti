@@ -1,0 +1,232 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: black;
+}
+.container {
+  width: 1320px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.big-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.big-box3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 115px;
+}
+.big-box4{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 115px;
+}
+.big-box5{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 115px;
+
+}
+.big-box6{
+   display: flex;
+   
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 115px;
+  background-color: #202024;
+  padding: 30px 40px;
+  border-radius: 10px;
+}
+.big-box7{
+   display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 115px;
+}
+.big-box8{
+   display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 115px;
+}
+header {
+  padding: 17px 0;
+}
+.Epic-game {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+  display: flex;
+  gap: 33px;
+}
+.box {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+
+a {
+  text-decoration-line: none;
+  color: white;
+}
+.exit {
+  background-color: #ffffff26;
+  color: white;
+  border-radius: 5px;
+  padding: 4px 12px;
+  border: none;
+}
+.loading {
+  background-color: #26bbff;
+  padding: 4px 12px;
+  color: black;
+  border-radius: 5px;
+  border: none;
+  /* padding: 10px 0px; */
+}
+.btn {
+  display: flex;
+  justify-content: space-between;
+}
+.world-img {
+  width: 32px;
+  height: 32px;
+
+  background-image: url("./world2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.world-btn {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+  gap: 15px;
+  border: none;
+}
+.inp-box {
+  display: flex;
+  margin-top: 15px;
+  gap: 33px;
+  margin-bottom: 30px;
+}
+.inp {
+  padding: 10px 5px;
+  border-radius: 50px;
+  background-color: #202024;
+  border: none;
+}
+.yozuv1 {
+  padding: 10px;
+}
+
+.yozuv2 {
+  color: gray;
+  padding: 10px;
+}
+.yozuv3 {
+  color: grey;
+  padding: 10px;
+}
+.card {
+  background-image: url("./gameimg.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 117px;
+  padding-left: 85px;
+  padding-bottom: 117px;
+  background-position: center;
+}
+h4 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+.game-name {
+  color: white;
+  margin: 0;
+}
+span {
+  color: white;
+}
+.yaqinda {
+  color: white;
+}
+.malumot {
+  color: white;
+}
+
+.game-btn {
+  padding: 12px 20px;
+  border-radius: 8px;
+  border: none;
+}
+
+.text {
+  width: 300px;
+}
+
+.card2 {
+  width: 250px;
+ 
+  border-radius: 8px;
+ 
+}
+.card-btn{
+  padding: 8px 16px;
+  background-color: #ffffff26;
+  color: white;
+  border-radius: 8px;
+  border: none;
+}
+span {
+  color: #ffffffa6;
+}
+.soz {
+  color: #ffffffa6;
+}
+.big-card {
+  width: 362px;
+}
+.price{
+  display: flex;
+  gap: 15px;
+}
+.new-price{
+  margin: 0;
+
+}
+del{
+  color: #ffffffa6;
+}
+.skidka{
+  background-color: #26bbff;
+  padding: 0 8px;
+  color: black;
+  border: none;
+  border-radius: 15px;
+
+}
+img{
+  border-radius: 10px;
+}
+
+.list-box{
+  list-style-type: none;
+  margin: 0;
+
+}
+a{
+  color: #ffffff26;
+  text-decoration: none;
+}
