@@ -230,3 +230,10 @@ a{
   color: #ffffff26;
   text-decoration: none;
 }
+.card-btn:hover{
+  color: white;
+  background-color: rgb(128, 138, 150);
+}
+.game-btn:hover{
+  background-color: gray;
+}
